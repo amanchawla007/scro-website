@@ -1,4 +1,4 @@
- @import url(https://fonts.googleapis.com/css?family=arial);
+  @import url(https://fonts.googleapis.com/css?family=arial);
 
 html, body{
   height: 100%;
@@ -39,7 +39,7 @@ svg {
 }
 
 .text-copy:nth-child(3){
-	stroke: #BD0034;
+	stroke:  floralwhite;
 	animation-delay: -3s;
 }
 
@@ -49,7 +49,7 @@ svg {
 }
 
 .text-copy:nth-child(5){
-	stroke: #FDB731;
+	stroke: floralwhite;
 	animation-delay: -5s;
 }
 
@@ -71,23 +71,40 @@ svg {
 
 }
 
+
+
   }
+
+
+  .txt-rotate
+{
+	font-color: white;
+	font-size: 5px;
+	font-family: 'Raleway';
+
+}
+
 }
 
 
 
 /*full form scro */
-#name
+h3 
 {
+	 
+	font-color: white;
+	 
+	font:'poppins';
 	text-align: center;
-	font-color:white;
-	text-transform: capitalize;
-	font:'poppins';;
+    text-transform: capitalize;
+    font: -webkit-control;
+    font-weight: 300;
+    color: floralwhite;
 }
 
 .txt-rotate
 {
-	font-color: white;
+	font-color: #fff;
 	font-size: 50px;
 	font-family: 'Raleway';
 
