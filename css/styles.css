@@ -29,12 +29,12 @@ svg {
 }
 
 .text-copy:nth-child(1){
-    stroke: #4D163D;
+    stroke:  floralwhite;
 	animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-	stroke: #840037;
+	stroke:  floralwhite;
 	animation-delay: -2s;
 }
 
@@ -44,7 +44,7 @@ svg {
 }
 
 .text-copy:nth-child(4){
-	stroke: #BD0034;
+	stroke:  floralwhite;
 	animation-delay: -4s;
 }
 
@@ -59,9 +59,10 @@ svg {
 
 /* SCRO animationn ends*/
  
-@media screen and (max-width: 480px) {
-  body {
+@media screen and (max-width: 480px) 
+  {
      svg {
+  
     display: block;
     font: 10.5em 'poppins';
     width: 760px;
@@ -71,21 +72,25 @@ svg {
 
 }
 
+h3 
+{
+	 
+	font-color: white;
+	font-size: 20px;
+	font:'poppins';
+	text-align: center;
+    text-transform: capitalize;
+    font: -webkit-control;
+    font-weight: 300;
+    color: floralwhite;
+}
+
 
 
   }
 
 
-  .txt-rotate
-{
-	font-color: white;
-	font-size: 5px;
-	font-family: 'Raleway';
-
-}
-
-}
-
+ 
 
 
 /*full form scro */
