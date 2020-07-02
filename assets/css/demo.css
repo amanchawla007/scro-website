@@ -2484,35 +2484,35 @@ h6, .h6 {
 }
 
 /*-------------sponsers----------------------------------------------------*/
-
-  .Rectangle_22 {
+ .Rectangle_22 {
     position: absolute;
     overflow: visible;
     width: 410px;
     height: 1398px;
     left: 0px;
-    top: 6854px;
+    top: 6966px;
 }
 
-.Ellipse_9 {
-    position: absolute;
-    overflow: visible;
-    width: 140px;
-    height: 146px;
-    left: 82px;
-    top: 6867px;
-}
-
- .Ellipse_7 {
+.Ellipse_7 {
     position: absolute;
     overflow: visible;
     width: 520px;
     height: 469px;
     left: -257px;
-    top: 6853px;
+    top: 6956px;
 }
 
-#SPONSORS_ {
+ .Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    height: 171px;
+    left: 328px;
+    top: 6950px;
+}
+
+  
+ #SPONSORS_ {
     left: 12px;
     top: 6878px;
     position: absolute;
@@ -2526,7 +2526,6 @@ h6, .h6 {
     font-size: 42px;
     color: rgba(255,255,255,1);
 }
-
  
  .Ellipse_8 {
     position: absolute;
