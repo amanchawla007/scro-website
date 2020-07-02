@@ -2025,6 +2025,8 @@ h6, .h6 {
 
 
 
+
+
 @media (max-width : 480px) {
 
 
@@ -2642,7 +2644,133 @@ footer ul li a {
 
 
 
+ @media screen and (min-width: 1400px)  {
+  
 
+#D {
+    position: absolute;
+    overflow: visible;
+    height: 341px;
+    width: 392px;
+    margin-top: 146px;
+    margin-left: 1037px;
+}
+
+
+.Rectangle_19 {
+    overflow: visible;
+    position: absolute;
+    width: 744px;
+    height: 650px;
+    left: 683px;
+    top: 1926px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+.Rectangle_20 {
+    position: absolute;
+    overflow: visible;
+    width: 746px;
+    height: 16px;
+    margin-left: 683px;
+    top: 1939px;
+}
+
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 1429px;
+    height: 633px;
+    left: 0px;
+    top: 6142px;
+}
+
+#SPONSORS_ {
+    left: 13px;
+    top: 6116px;
+    position: absolute;
+    overflow: visible;
+    width: 222px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgba(255,255,255,1);
+}
+.Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 744px;
+    height: 16px;
+    left: 683px;
+    top: 2500px;
+}
+
+.Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    height: 145px;
+    left: 246px;
+    top: 6240px;
+}
+
+ 
+
+
+.Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    height: 578px;
+    left: -30px;
+    top: 6143px;
+}
+.Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 140px;
+    left: 311px;
+    top: 6193px;
+}
+
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 155px;
+    left: 765px;
+    top: 3833px;
+}
+
+
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 130px;
+    left: 890px;
+    top: 3950px;
+}
+
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 453px;
+    height: 545px;
+    left: 947px;
+    top: 3760px;
+}
+
+
+
+
+
+}
 
 
 
