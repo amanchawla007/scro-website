@@ -2602,7 +2602,22 @@ p {
 }
 
 
- 
+footer ul li a {
+    color: inherit;
+    padding: 0px;
+    /* font-weight: 100; */
+    font-size: 15px;
+    text-transform: uppercase;
+    border-radius: 0;
+    text-decoration: none;
+    position: relative;
+    margin-left: -34px;
+    display: block;
+    font-family: 'Open Sans';
+    text-transform: capitalize;
+}
+
+
 
 .font-weight-bold {
     font-weight: 500 !important;
@@ -2613,29 +2628,12 @@ p {
 
 
 
- footer ul {
-    margin-bottom: 0;
-    padding: 0;
-    list-style: none;
-    margin-left: -18px;
-}
 
-p {
-    width: 302px;
-    margin-left: 47px;
-}
 
-.font-weight-bold {
-    font-weight: 500 !important;
-    margin-left: 25px;
-    font-size: 19px;
-}
 
-.list-inline {
-    padding-left: -58px;
-    list-style: none;
-    margin-right: 21px;
-}
+
+
+
 
 
 
@@ -2774,17 +2772,8 @@ p {
 }
 
 
- @media screen and (min-width: 320px)  
- {
-
-.list-inline {
-    padding-left: -58px;
-    list-style: none;
-    margin-right: -13px;
-}
-
-
- }
+ @media screen and (min-width: 360px)  
+ {}
 
 
 
