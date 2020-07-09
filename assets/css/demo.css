@@ -2786,6 +2786,80 @@ p {
 
  }
 
+ @media screen and (max-width: 1220px)  
+ {
+ 
+
+
+#SPONSORS_ {
+    left: 17px;
+    top: 6151px;
+    position: absolute;
+    overflow: visible;
+    width: 222px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgba(255,255,255,1);
+}
+
+
+.Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 140px;
+    left: 319px;
+    top: 6144px;
+}
+
+
+
+#Ellipse_9 {
+    fill: rgba(229,229,229,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 1349px;
+    height: 648px;
+    left: 0px;
+    top: 6157px;
+}
+
+.Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    height: 578px;
+    left: -30px;
+    top: 6154px;
+}
+
+.Rectangle_19 {
+    overflow: visible;
+    position: absolute;
+    width: 665px;
+    height: 616px;
+    left: 683px;
+    top: 1836px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+ }
+
 
 
 
