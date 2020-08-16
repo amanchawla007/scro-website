@@ -4,6 +4,7 @@ body{
 }
 
 
+#recruit{margin-left: 976px;margin-top: -142px;}
 .tim-row {
   margin-bottom: 20px;
 }
@@ -2029,6 +2030,11 @@ h6, .h6 {
 
 @media (max-width : 480px) {
 
+#recruit{margin-left: 197px;top: -40px;}
+
+
+
+
 
 
 
@@ -2786,7 +2792,21 @@ p {
 
  }
 
- @media screen and (max-width: 1220px)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media screen and (max-width: 1220px)  
  {
  
 
@@ -2867,5 +2887,8 @@ p {
 
 
 
+
+
+*/
 
 
