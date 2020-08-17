@@ -492,7 +492,7 @@ section {
 
 .section-title h2::before, .section-title h2::after {
   content: '';
-  width: 18px;
+  width: 12px;
   height: 2px;
   background: #3498db;
   display: inline-block;
