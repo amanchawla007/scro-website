@@ -492,7 +492,7 @@ section {
 
 .section-title h2::before, .section-title h2::after {
   content: '';
-  width: 50px;
+  width: 18px;
   height: 2px;
   background: #3498db;
   display: inline-block;
@@ -1593,4 +1593,25 @@ section {
 
 #footer .footer-links a:hover {
   color: #3498db;
+}
+
+
+
+@media (min-width: 576px) { 
+
+
+.section-title h2::before, .section-title h2::after {
+    content: '';
+    width: 18px;
+    height: 2px;
+    background: #3498db;
+    display: inline-block;
+}
+
+
+.card-text:last-child {
+    margin-bottom: 0;
+    margin-left: 19px;
+}
+
 }
