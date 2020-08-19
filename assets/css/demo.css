@@ -2132,7 +2132,7 @@ h6, .h6 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 19px;
+    font-size: 16px;
     color: rgba(0,0,0,1);
     margin-left: -5px;
     line-height: 1.49;
@@ -3034,7 +3034,7 @@ p {
 
 
 
-
+/*
 @media (max-width: 411px){
 
 #We_at_SCRO_focus_on_building_a {
