@@ -2201,13 +2201,13 @@ h6, .h6 {
     top: 1527px;
     position: absolute;
     overflow: hidden;
-    width: 370px;
+    width: 338px;
     height: 471px;
     text-align: left;
     font-family: poppins;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 13px;
     color: rgba(255,255,255,1);
     font-family: 'Open Sans';
 }
@@ -2259,7 +2259,7 @@ h6, .h6 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 15px;
     color: rgba(255,255,255,1);
 }
 
