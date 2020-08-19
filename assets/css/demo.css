@@ -1,3 +1,7 @@
+ @font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
 body{
   background-color: #FFFFFF;
 
@@ -687,8 +691,7 @@ h3
 {
 	font-color: black;
 	font-size: 50px;
-	font-family: 'Raleway';
-
+	font-family: 'Open Sans';
 }
 .about-section{
   background-color: #FFFFFF;
@@ -782,13 +785,13 @@ h3
 
    #We_at_SCRO_focus_on_building_a {
     position: absolute;
-    margin-top: 230px;
+    margin-top: 198px;
     overflow: visible;
     text-align: left;
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 21px;
     color: rgba(0,0,0,1);
     margin-left: 70px;
     line-height: 1.49;
@@ -867,17 +870,17 @@ h3
 	top: 2360px;
 }
 #Our_mission_is_to_be_one_the_m {
-	left: 764px;
+	left: 715px;
 	top: 1800px;
 	position: absolute;
 	overflow: hidden;
-	width: 523px;
+	width: 613px;
 	height: 471px;
 	text-align: left;
-	font-family: poppins;
+	font-family: Open Sans;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 23px;
 	color: rgba(255,255,255,1);
 }
 
@@ -945,16 +948,16 @@ h3
 }
 #Being_the_official_Copter_rese {
 	left: 48px;
-	top: 2470px;
+	top: 2422px;
 	position: absolute;
 	overflow: visible;
-	width: 519px;
+	width: 607px;
 	height: 432px;
 	text-align: left;
-	font-family: poppins ;
+	font-family: Open Sans;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 23px;
 	color: rgba(255,255,255,1);
 }
 
