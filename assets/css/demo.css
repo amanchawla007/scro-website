@@ -2593,7 +2593,7 @@ h6, .h6 {
 
 .pt-4, .py-4 {
     padding-top: 1.5rem !important;
-    margin-top: 1574px;
+    margin-top: 1631px;
     font-family: 'Open Sans';
     background-color: floralwhite;
 }
@@ -2875,7 +2875,7 @@ p {
 
 
 @media (min-width: 1426px) { 
-}
+
 
 #D {
     position: absolute;
@@ -2948,6 +2948,98 @@ p {
     top: 3092px;
     overflow: visible;
 }
+}
+
+
+
+@media (min-width: 1490px) { 
+#D {
+    position: absolute;
+    overflow: visible;
+    height: 341px;
+    width: 392px;
+    margin-top: 146px;
+    margin-left: 1194px;
+}
+
+#We_at_SCRO_focus_on_building_a {
+    position: absolute;
+    margin-top: 198px;
+    overflow: visible;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(0,0,0,1);
+    margin-left: 70px;
+    line-height: 1.49;
+}
+
+
+#Our_mission_is_to_be_one_the_m {
+    left: 715px;
+    top: 1800px;
+    position: absolute;
+    overflow: hidden;
+    width: 815px;
+    height: 471px;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.1;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Rectangle_19 {
+    overflow: visible;
+    position: absolute;
+    width: 904px;
+    height: 650px;
+    left: 682px;
+    top: 1926px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 453px;
+    height: 545px;
+    left: 1135px;
+    top: 3760px;
+}
+
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 130px;
+    left: 1053px;
+    top: 3950px;
+}
+
+
+#DOMIANS {
+    filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.161));
+    left: 1224px;
+    top: 3730px;
+    position: absolute;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 51px;
+    color: rgba(255,255,255,1);
+}
+
+
 
 
 
@@ -3013,6 +3105,155 @@ p {
     left: 0px;
     top: 6142px;
 }
+
+
+
+
+#Group_11 {
+    position: absolute;
+    width: 237px;
+    height: 344px;
+    left: 469px;
+    top: 370px;
+    overflow: visible;
+}
+
+#Group_12 {
+    position: absolute;
+    width: 237px;
+    height: 344px;
+    left: 758px;
+    top: 365px;
+    overflow: visible;
+}
+
+#Group_13 {
+    position: absolute;
+    width: 237px;
+    height: 344px;
+    left: 1037px;
+    top: 321px;
+    overflow: visible;
+}
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 1588px;
+    height: 633px;
+    left: 0px;
+    top: 6394px;
+}
+
+#SPONSORS_ {
+    left: 13px;
+    top: 6347px;
+    position: absolute;
+    overflow: visible;
+    width: 222px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgba(255,255,255,1);
+}
+
+.Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 140px;
+    height: 145px;
+    left: 246px;
+    top: 6456px;
+}
+
+
+.Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 140px;
+    left: 311px;
+    top: 6501px;
+}
+
+
+
+
+
+
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 453px;
+    height: 545px;
+    left: 1135px;
+    top: 3760px;
+}
+
+#DOMIANS {
+    filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.161));
+    left: 1251px;
+    top: 3730px;
+    position: absolute;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+
+
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 130px;
+    left: 1076px;
+    top: 3950px;
+}
+
+
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 155px;
+    left: 1028px;
+    top: 3833px;
+}
+
+
+
+
+#Group_13 {
+    position: absolute;
+    width: 237px;
+    height: 344px;
+    left: 1037px;
+    top: 366px;
+    overflow: visible;
+}
+
+
+.Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    height: 578px;
+    left: -30px;
+    top: 6400px;
+}
+
+
+
+
 
 
 
