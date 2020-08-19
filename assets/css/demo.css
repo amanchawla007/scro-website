@@ -2132,7 +2132,7 @@ h6, .h6 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 21px;
+    font-size: 19px;
     color: rgba(0,0,0,1);
     margin-left: -5px;
     line-height: 1.49;
@@ -2652,6 +2652,103 @@ p {
 
   
 
+ @media (min-width: 1375px) { 
+
+.Rectangle_19 {
+    overflow: visible;
+    position: absolute;
+    width: 717px;
+    height: 650px;
+    left: 683px;
+    top: 1800px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+#D {
+    position: absolute;
+    overflow: visible;
+    height: 341px;
+    width: 392px;
+    margin-top: 200px;
+    margin-left: 1009px;
+}
+
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    height: 545px;
+    left: 1002px;
+    top: 3760px;
+}
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 130px;
+    left: 918px;
+    top: 3950px;
+}
+
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 155px;
+    left: 790px;
+    top: 3800px;
+}
+
+
+ .Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 1401px;
+    height: 615px;
+    left: 0px;
+    top: 6177px;
+}
+
+
+#SPONSORS_ {
+    left: 15px;
+    top: 6139px;
+    position: absolute;
+    overflow: visible;
+    width: 222px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    color: rgba(255,255,255,1);
+}
+
+.Ellipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    height: 578px;
+    left: -30px;
+    top: 6175px;
+}
+
+.Ellipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 140px;
+    left: 325px;
+    top: 6167px;
+}
+
+
+
+  }
+
 
 
  @media screen and (min-width: 1400px)  {
@@ -2777,6 +2874,145 @@ p {
 }
 
 
+@media (min-width: 1426px) { 
+}
+
+#D {
+    position: absolute;
+    overflow: visible;
+    height: 341px;
+    width: 392px;
+    margin-top: 146px;
+    margin-left: 1097px;
+}
+.Rectangle_19 {
+    overflow: visible;
+    position: absolute;
+    width: 809px;
+    height: 650px;
+    left: 682px;
+    top: 1926px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+
+ #Our_mission_is_to_be_one_the_m {
+    left: 715px;
+    top: 1800px;
+    position: absolute;
+    overflow: hidden;
+    width: 741px;
+    height: 471px;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.1;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+
+
+#Being_the_official_Copter_rese {
+    left: 48px;
+    top: 2453px;
+    position: absolute;
+    overflow: visible;
+    width: 607px;
+    height: 432px;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    color: rgba(255,255,255,1);
+}
+
+
+#kisspng-vision-statement-missi {
+    position: absolute;
+    width: 652px;
+    height: 300px;
+    left: 776px;
+    top: 2431px;
+    overflow: visible;
+}
+
+
+
+#work2 {
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    margin-left: 857px;
+    top: 3092px;
+    overflow: visible;
+}
+
+
+
+
+
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 453px;
+    height: 545px;
+    left: 1038px;
+    top: 3760px;
+}
+
+
+
+
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    height: 130px;
+    left: 948px;
+    top: 3950px;
+}
+
+
+
+
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 159px;
+    height: 155px;
+    left: 858px;
+    top: 3833px;
+}
+
+
+
+
+#DOMIANS {
+    filter: drop-shadow(5px 10px 20px rgba(0, 0, 0, 0.161));
+    left: 1161px;
+    top: 3730px;
+    position: absolute;
+    overflow: visible;
+    width: 214px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+.Rectangle_22 {
+    position: absolute;
+    overflow: visible;
+    width: 1489px;
+    height: 633px;
+    left: 0px;
+    top: 6142px;
+}
 
 
 
@@ -2799,13 +3035,44 @@ p {
 
 
 
+@media (max-width: 411px){
+
+#We_at_SCRO_focus_on_building_a {
+    position: absolute;
+    margin-top: -272px;
+    overflow: visible;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+    margin-left: -5px;
+    line-height: 1.49;
+    font-weight: 500;
+    width: 433px;
+}
+}
 
 
+@media (max-width: 375px){
+#We_at_SCRO_focus_on_building_a {
+    position: absolute;
+    margin-top: -272px;
+    overflow: visible;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(0,0,0,1);
+    margin-left: -5px;
+    line-height: 1.49;
+    font-weight: 500;
+    width: 389px;
+}
 
-
-
-
-
+}
 
 
 
